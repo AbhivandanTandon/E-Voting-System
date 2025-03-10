@@ -1,0 +1,8 @@
+Compile
+
+javac -cp .;C:\Users\saaha\Downloads\mysql-connector-j-9.1.0\mysql-connector-j-9.1.0\mysql-connector-j-9.1.0.jar ParkingSystem.java
+
+Run
+
+java -cp .;C:\Users\saaha\Downloads\mysql-connector-j-9.1.0\mysql-connector-j-9.1.0\mysql-connector-j-9.1.0.jar ParkingSystem
+
